@@ -10,11 +10,11 @@ export interface Track {
 export const tracks: Track[] = [
   {
     id: "1",
-    title: "ECHOES FROM THE VOID",
+    title: "JOY! TO THE WORLD!",
     duration: "3:42",
-    soundcloudUrl: "https://soundcloud.com/your-artist-name/echoes-from-the-void",
-    lyrics: `Standing on the edge of silence\nWatching the world dissolve\nInto static patterns\nWe cannot solve\n\n(Chorus)\nEchoes from the void\nCalling my name\nNothing is different\nEverything's the same`,
-    commentary: "I wrote this track at 4 AM after walking through the empty city streets. It captures the feeling of isolation in a hyper-connected world. The synth pad in the background is actually a slowed-down recording of a subway train."
+    soundcloudUrl: "https://soundcloud.com/verycoolkanye/joy-to-the-world",
+    lyrics: `Standing on the edge of silence\nWatching the world dissolve\nInto static patterns\nWe cannot solve\n\n(Chorus)\nJoy to the world\nCalling my name\nNothing is different\nEverything's the same`,
+    commentary: "A celebration wrapped in existential contemplation. This track captures the paradox of finding joy amid the chaos. The production balances bright melodies with darker undertones, reflecting the complexity of human emotion."
   },
   {
     id: "2",
