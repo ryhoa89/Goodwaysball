@@ -26,11 +26,11 @@ export const tracks: Track[] = [
   },
   {
     id: "3",
-    title: "STATIC DREAMS",
+    title: "STRANGE WAYS",
     duration: "2:58",
-    soundcloudUrl: "https://soundcloud.com/your-artist-name/static-dreams",
-    lyrics: `White noise lullaby\nSleep without rest\nPut your hand on my chest\nIs there a heart left?\n\n(Outro)\nFade to black\nDon't look back`,
-    commentary: "Recorded in one take using a broken microphone I found at a pawn shop. The crackle is real. It's about the beauty in imperfection."
+    soundcloudUrl: "https://soundcloud.com/kingdomtracks/strange-ways-demo",
+    lyrics: `Walking down these strange ways\nSearching for a truth I know\nNothing feels the way it should\nBut I can't let you go\n\n(Chorus)\nStrange ways lead me home\nTo a place I've never known`,
+    commentary: "A demo that explores the uncanny feeling of dislocation. The minimal production creates space for introspection. Sometimes the path forward requires embracing the unfamiliar and trusting the journey."
   },
   {
     id: "4",
