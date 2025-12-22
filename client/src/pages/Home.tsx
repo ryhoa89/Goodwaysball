@@ -45,7 +45,6 @@ export default function Home() {
         style={{ backgroundImage: `url(${textureImage})`, backgroundSize: 'cover' }}
       />
       <div className="grain-overlay" />
-
       {/* Hero Section */}
       <header className="relative h-screen flex flex-col justify-between p-6 md:p-12 z-10">
         <nav className="flex justify-between items-start">
@@ -65,9 +64,7 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.5 }}
               className="font-display text-2xl md:text-5xl font-bold leading-tight mb-6"
-            >
-              "Music is the silence between the notes."
-            </motion.p>
+            >"the soul should always stand ajar"</motion.p>
             <motion.div
                initial={{ opacity: 0 }}
                animate={{ opacity: 1 }}
@@ -102,7 +99,6 @@ export default function Home() {
             <ArrowDown className="w-6 h-6" />
         </motion.div>
       </header>
-
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-6 md:px-12 relative z-10 space-y-32">
         
@@ -145,7 +141,6 @@ export default function Home() {
         </footer>
 
       </main>
-
       {/* Sticky Player */}
       <AnimatePresence>
         {currentTrack && (
