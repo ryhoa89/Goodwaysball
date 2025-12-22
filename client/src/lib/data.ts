@@ -34,11 +34,11 @@ export const tracks: Track[] = [
   },
   {
     id: "4",
-    title: "NEON RAIN",
+    title: "BREATHE REMIX",
     duration: "5:20",
-    soundcloudUrl: "https://soundcloud.com/your-artist-name/neon-rain",
-    lyrics: `Colors bleeding on the pavement\nReflections of a life I knew\nWalking through the storm\nJust to get to you`,
-    commentary: "The final track of the EP. It offers a glimmer of hope amidst the gloom. The rain sounds were recorded during a thunderstorm in Tokyo."
+    soundcloudUrl: "https://soundcloud.com/kingdomtracks/breathe-remix",
+    lyrics: `Just breathe through the chaos\nLet the moment hold you\nIn the space between the noise\nSomething's trying to find you`,
+    commentary: "A remixed exploration of stillness amidst overwhelm. The layered production creates a meditative journey, inviting listeners to pause and reconnect with themselves. Sometimes the answer is simply to breathe."
   }
 ];
 
