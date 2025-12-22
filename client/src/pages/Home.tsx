@@ -145,6 +145,7 @@ export default function Home() {
         {currentTrack && (
           <SoundCloudPlayer 
             currentTrack={currentTrack}
+            onClose={() => setCurrentTrackIndex(null)}
           />
         )}
       </AnimatePresence>
