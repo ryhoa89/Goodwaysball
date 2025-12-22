@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { tracks, photos } from "@/lib/data";
-import { AudioPlayer } from "@/components/AudioPlayer";
+import { SoundCloudPlayer } from "@/components/SoundCloudPlayer";
 import { TrackList } from "@/components/TrackList";
 import { PhotoGallery } from "@/components/PhotoGallery";
 import { motion, AnimatePresence } from "framer-motion";
@@ -143,12 +143,8 @@ export default function Home() {
       {/* Sticky Player */}
       <AnimatePresence>
         {currentTrack && (
-          <AudioPlayer 
+          <SoundCloudPlayer 
             currentTrack={currentTrack}
-            isPlaying={isPlaying}
-            onPlayPause={() => setIsPlaying(!isPlaying)}
-            onNext={handleNext}
-            onPrev={handlePrev}
           />
         )}
       </AnimatePresence>
