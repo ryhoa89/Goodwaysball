@@ -4,7 +4,7 @@ import { AudioPlayer } from "@/components/AudioPlayer";
 import { TrackList } from "@/components/TrackList";
 import { PhotoGallery } from "@/components/PhotoGallery";
 import { motion, AnimatePresence } from "framer-motion";
-import heroImage from "@assets/generated_images/introspective_artist_portrait_black_and_white.png";
+import heroImage from "@assets/image_1766406556937.png";
 import textureImage from "@assets/generated_images/abstract_dark_texture_background.png";
 import { ArrowDown } from "lucide-react";
 
