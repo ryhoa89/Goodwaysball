@@ -48,9 +48,8 @@ export default function Home() {
       {/* Hero Section */}
       <header className="relative h-screen flex flex-col justify-between p-6 md:p-12 z-10">
         <nav className="flex justify-between items-start">
-          <h1 className="font-display font-black text-4xl md:text-6xl tracking-tighter mix-blend-difference">
-            ECHOES
-          </h1>
+          <h1 className="font-display font-black text-4xl md:text-6xl tracking-tighter mix-blend-difference">Ben 
+          Goodway</h1>
           <div className="font-mono text-xs md:text-sm text-right opacity-60">
             SOLO ARTIST<br />
             PORTFOLIO 2025
