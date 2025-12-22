@@ -36,30 +36,9 @@ export function PhotoGallery({ photos: initialPhotos }: PhotoGalleryProps) {
 
   return (
     <div className="space-y-8">
-      <div className="flex items-center justify-between">
-        <h2 className="font-display text-2xl md:text-3xl font-bold">VISUAL ARCHIVE</h2>
-        <button 
-          onClick={handleUploadClick}
-          className="flex items-center gap-2 px-4 py-2 bg-white text-black font-bold text-sm uppercase tracking-wider hover:bg-gray-200 transition-colors"
-          data-testid="button-upload"
-        >
-          <Upload className="w-4 h-4" />
-          <span className="hidden md:inline">Upload Media</span>
-        </button>
-      </div>
+      <h2 className="font-display text-2xl md:text-3xl font-bold">VISUAL ARCHIVE</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {/* Mock Upload Card (Visual placeholder for drag & drop) */}
-        <div 
-            onClick={handleUploadClick}
-            className="aspect-square border-2 border-dashed border-white/10 rounded-lg flex flex-col items-center justify-center gap-4 text-muted-foreground hover:border-white/30 hover:bg-white/5 transition-all cursor-pointer group"
-        >
-            <div className="w-12 h-12 rounded-full bg-white/5 flex items-center justify-center group-hover:scale-110 transition-transform">
-                <Plus className="w-6 h-6" />
-            </div>
-            <span className="font-mono text-xs uppercase tracking-widest">Add to Archive</span>
-        </div>
-
         {photos.map((photo, i) => (
           <motion.div
             key={photo.id}
