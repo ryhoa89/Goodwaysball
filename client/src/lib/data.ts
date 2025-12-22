@@ -18,11 +18,11 @@ export const tracks: Track[] = [
   },
   {
     id: "2",
-    title: "DIGITAL GHOSTS",
+    title: "WILL YOU",
     duration: "4:15",
-    soundcloudUrl: "https://soundcloud.com/your-artist-name/digital-ghosts",
-    lyrics: `Screens glowing in the dark\nFaces without names\nWe are just data points\nIn their games\n\nTracing lines of code\nSearching for a soul\nBut all I find is empty space\nWhere I used to be whole`,
-    commentary: "A critique of our digital existence. Are we leaving a mark, or just cache files to be cleared? The distortion on the vocals represents the signal degradation of human connection."
+    soundcloudUrl: "https://soundcloud.com/kingdomtracks/will-you-unfinished-demo",
+    lyrics: `Will you stay when the light fades\nWill you wait through the endless nights\nWill you find me in the silence\nWill you hold me till it's right`,
+    commentary: "An unfinished demo that captures the raw vulnerability of uncertainty. The sparse production lets the emotional weight of the vocal performance shine through. It's about holding onto hope in the face of doubt."
   },
   {
     id: "3",
