@@ -1,3 +1,5 @@
+import recordingSessionImage from "@assets/image_1766434722354.png";
+
 export interface Track {
   id: string;
   title: string;
@@ -68,5 +70,10 @@ export const photos: Photo[] = [
     id: "4",
     src: "https://images.unsplash.com/photo-1514525253440-b393452e8d26?q=80&w=1974&auto=format&fit=crop",
     alt: "Silhouette performance"
+  },
+  {
+    id: "5",
+    src: recordingSessionImage,
+    alt: "Live recording session with cathedral windows"
   }
 ];
