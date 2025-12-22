@@ -69,10 +69,7 @@ export default function Home() {
                animate={{ opacity: 1 }}
                transition={{ delay: 0.8 }}
                className="font-mono text-sm md:text-base text-muted-foreground max-w-md"
-            >
-              A sonic exploration of the inner self. Lo-fi textures meet cinematic soundscapes. 
-              Listen below.
-            </motion.div>
+            >A sonic exploration of the inner self. Lo-fi textures meet cinematic soundscapes.                                                       Music by Benjamin Goodway</motion.div>
           </div>
 
           <motion.div 
