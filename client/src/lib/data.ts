@@ -1,4 +1,5 @@
 import recordingSessionImage from "@assets/image_1766434722354.png";
+import studioSessionImage from "@assets/Screenshot_2025-12-22_20.18.25_1766451803889.png";
 
 export interface Track {
   id: string;
@@ -53,8 +54,8 @@ export interface Photo {
 export const photos: Photo[] = [
   {
     id: "1",
-    src: "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?q=80&w=2070&auto=format&fit=crop",
-    alt: "Studio gear in low light"
+    src: studioSessionImage,
+    alt: "Live recording session with cathedral windows"
   },
   {
     id: "2",
