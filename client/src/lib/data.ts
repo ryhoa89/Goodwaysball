@@ -19,7 +19,15 @@ export const tracks: Track[] = [
     title: "JOY! TO THE WORLD!",
     duration: "3:42",
     soundcloudUrl: "https://soundcloud.com/verycoolkanye/joy-to-the-world",
-    lyrics: `Standing on the edge of silence\nWatching the world dissolve\nInto static patterns\nWe cannot solve\n\n(Chorus)\nJoy to the world\nCalling my name\nNothing is different\nEverything's the same`,
+    lyrics: `1. Joy to the world; the Lord is come;
+Let Earth receive her King;
+Let ev'ry heart prepare him room,
+And heav'n and nature sing.
+2. Joy to the Earth, the Savior reigns;
+Our mortal songs employ,
+While fields and floods, rocks, hills and plains,
+Repeat the sounding joy.
+`,
     commentary: "A celebration wrapped in existential contemplation. This track captures the paradox of finding joy amid the chaos. The production balances bright melodies with darker undertones, reflecting the complexity of human emotion."
   },
   {
@@ -27,7 +35,7 @@ export const tracks: Track[] = [
     title: "WILL YOU",
     duration: "4:15",
     soundcloudUrl: "https://soundcloud.com/kingdomtracks/will-you-unfinished-demo",
-    lyrics: `Will you stay when the light fades\nWill you wait through the endless nights\nWill you find me in the silence\nWill you hold me till it's right`,
+    lyrics: '',
     commentary: "An unfinished demo that captures the raw vulnerability of uncertainty. The sparse production lets the emotional weight of the vocal performance shine through. It's about holding onto hope in the face of doubt."
   },
   {
