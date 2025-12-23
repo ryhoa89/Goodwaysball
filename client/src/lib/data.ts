@@ -1,6 +1,7 @@
 import recordingSessionImage from "@assets/image_1766434722354.png";
 import studioSessionImage from "@assets/Screenshot_2025-12-22_20.18.25_1766451803889.png";
 import neonPortraitImage from "@assets/Screenshot_2025-12-22_20.19.45_1766451850609.png";
+import kingdomTextImage from "@assets/Screenshot_2025-12-23_01.06.14_1766452129217.png";
 
 export interface Track {
   id: string;
@@ -62,5 +63,10 @@ export const photos: Photo[] = [
     id: "2",
     src: neonPortraitImage,
     alt: "Neon portrait with artists"
+  },
+  {
+    id: "3",
+    src: kingdomTextImage,
+    alt: "Kingdom glitch text art"
   }
 ];
