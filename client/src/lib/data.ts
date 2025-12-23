@@ -1,5 +1,6 @@
 import recordingSessionImage from "@assets/image_1766434722354.png";
 import studioSessionImage from "@assets/Screenshot_2025-12-22_20.18.25_1766451803889.png";
+import neonPortraitImage from "@assets/Screenshot_2025-12-22_20.19.45_1766451850609.png";
 
 export interface Track {
   id: string;
@@ -59,8 +60,8 @@ export const photos: Photo[] = [
   },
   {
     id: "2",
-    src: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2070&auto=format&fit=crop",
-    alt: "Vintage microphone"
+    src: neonPortraitImage,
+    alt: "Neon portrait with artists"
   },
   {
     id: "3",
