@@ -43,7 +43,7 @@ Repeat the sounding joy.
     title: "STRANGE WAYS",
     duration: "2:58",
     soundcloudUrl: "https://soundcloud.com/kingdomtracks/strange-ways-demo",
-    lyrics: `Walking down these strange ways\nSearching for a truth I know\nNothing feels the way it should\nBut I can't let you go\n\n(Chorus)\nStrange ways lead me home\nTo a place I've never known`,
+    lyrics: '',
     commentary: "A demo that explores the uncanny feeling of dislocation. The minimal production creates space for introspection. Sometimes the path forward requires embracing the unfamiliar and trusting the journey."
   },
   {
@@ -51,7 +51,7 @@ Repeat the sounding joy.
     title: "BREATHE REMIX",
     duration: "5:20",
     soundcloudUrl: "https://soundcloud.com/kingdomtracks/breathe-remix",
-    lyrics: `Just breathe through the chaos\nLet the moment hold you\nIn the space between the noise\nSomething's trying to find you`,
+    lyrics: '',
     commentary: "A remixed exploration of stillness amidst overwhelm. The layered production creates a meditative journey, inviting listeners to pause and reconnect with themselves. Sometimes the answer is simply to breathe."
   }
 ];

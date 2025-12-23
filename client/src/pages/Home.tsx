@@ -130,8 +130,7 @@ export default function Home() {
                 Designed & Built for the Void.
             </div>
             <div className="flex gap-4">
-                <a href="#" className="hover:text-white transition-colors">Instagram</a>
-                <a href="#" className="hover:text-white transition-colors">Spotify</a>
+                <a href="https://www.instagram.com/0122b3njamin/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Instagram</a>
                 <a href="#" className="hover:text-white transition-colors">Bandcamp</a>
             </div>
         </footer>
