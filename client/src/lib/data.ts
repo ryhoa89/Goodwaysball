@@ -62,10 +62,5 @@ export const photos: Photo[] = [
     id: "2",
     src: neonPortraitImage,
     alt: "Neon portrait with artists"
-  },
-  {
-    id: "5",
-    src: recordingSessionImage,
-    alt: "Live recording session with cathedral windows"
   }
 ];
