@@ -131,7 +131,6 @@ export default function Home() {
             </div>
             <div className="flex gap-4">
                 <a href="https://www.instagram.com/0122b3njamin/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Instagram</a>
-                <a href="#" className="hover:text-white transition-colors">SoundCloud</a>
             </div>
         </footer>
 

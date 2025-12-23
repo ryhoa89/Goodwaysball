@@ -3,6 +3,7 @@ import studioSessionImage from "@assets/Screenshot_2025-12-22_20.18.25_176645180
 import neonPortraitImage from "@assets/Screenshot_2025-12-22_20.19.45_1766451850609.png";
 import kingdomTextImage from "@assets/Screenshot_2025-12-23_01.06.14_1766452129217.png";
 import mountainArchiveImage from "@assets/image_1766452400489.png";
+import cactusArchiveImage from "@assets/image_1766453007328.png";
 
 export interface Track {
   id: string;
@@ -82,5 +83,10 @@ export const photos: Photo[] = [
     id: "4",
     src: mountainArchiveImage,
     alt: "Mountain vista archive"
+  },
+  {
+    id: "5",
+    src: cactusArchiveImage,
+    alt: "Cactus and plant still life"
   }
 ];
