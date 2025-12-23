@@ -64,11 +64,6 @@ export const photos: Photo[] = [
     alt: "Neon portrait with artists"
   },
   {
-    id: "3",
-    src: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=2070&auto=format&fit=crop",
-    alt: "Stage lights"
-  },
-  {
     id: "5",
     src: recordingSessionImage,
     alt: "Live recording session with cathedral windows"
