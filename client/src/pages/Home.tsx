@@ -124,7 +124,7 @@ export default function Home() {
         
         {/* Footer */}
         <footer className="border-t border-white/10 py-12 text-center md:text-left flex flex-col md:flex-row justify-between items-center gap-6 opacity-40 hover:opacity-100 transition-opacity">
-            <div className="font-display font-bold text-2xl">ECHOES</div>
+            <div className="font-display font-bold text-2xl">Kingdom</div>
             <div className="font-mono text-xs">
                 &copy; 2025 All Rights Reserved.<br />
                 Designed & Built for the Void.
